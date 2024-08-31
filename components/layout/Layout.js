@@ -17,7 +17,7 @@ const Layout = ({children}) => {
             <div className={styles.container}>{children}</div>
             <footer className={styles.footer}>
                 <span>
-                    <a href="https://github.com/therealireza" target="_blank" rel="noreferrer">
+                    <a href="https://github.com/AlirezaHadad" target="_blank" rel="noreferrer">
                         Alireza Hadad
                     </a>
                     -Restaurant Project &copy;
